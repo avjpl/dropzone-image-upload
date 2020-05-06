@@ -1,0 +1,19 @@
+.dropzone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.dropzone__zone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40rem;
+  height: 60%;
+  border: 2px dashed black;
+}
+
+.dropzone__zone__message {
+  font-size: 1.4rem;
+}
